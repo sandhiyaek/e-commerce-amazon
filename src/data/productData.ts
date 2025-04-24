@@ -121,7 +121,7 @@ export const recommendedProducts: Product[] = [
   {
     id: 12,
     title: "Logitech MX Master 3S Wireless Mouse",
-    image: "https://images.pexels.com/photos/6739239/pexels-photo-6739239.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://www.bhphotovideo.com/images/images2500x2500/logitech_910_006558_mx_master_3s_pale_1703321.jpg",
     rating: 4.8,
     reviewCount: 2107,
     price: 89.99,
@@ -131,7 +131,7 @@ export const recommendedProducts: Product[] = [
   {
     id: 13,
     title: "Cuisinart 5.5-Quart Stand Mixer",
-    image: "https://images.pexels.com/photos/5363338/pexels-photo-5363338.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "https://i.pinimg.com/originals/36/ce/02/36ce02f17ff9e01be5f308bac4a3f572.jpg",
     rating: 4.6,
     reviewCount: 1687,
     price: 159.99,

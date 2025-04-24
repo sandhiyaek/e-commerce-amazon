@@ -2,25 +2,11 @@ import React from 'react';
 import BackToTop from './BackToTop';
 
 const Footer: React.FC = () => {
-  const scrollToTop = () => {
-    window.scrollTo({
-      top: 0,
-      behavior: "smooth"
-    });
-  };
 
   return (
     <footer className="bg-[#232F3E] text-white">
       {/* Back to top button */}
-      <div className="bg-[#37475A] hover:bg-[#485769] transition-colors">
-        <button 
-          onClick={scrollToTop}
-          className="w-full py-3 text-sm font-medium"
-        >
-          Back to top
-        </button>
-      </div>
-
+      
       {/* Main footer links */}
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
@@ -83,6 +69,9 @@ const Footer: React.FC = () => {
           </div>
           <p className="text-xs text-gray-400">
             © 1996-{new Date().getFullYear()}, Amazon.com, Inc. or its affiliates
+          </p>
+          <p className="text-xs text-gray-400 mt-2">
+            Developed by <a href="http://sandhiyaek.me/" target="_blank" rel="noopener noreferrer" className="text-[#FF9900] hover:underline">sandhiyaek.me</a>
           </p>
         </div>
       </div>
