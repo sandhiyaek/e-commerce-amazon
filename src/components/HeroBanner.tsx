@@ -14,7 +14,7 @@ const banners: BannerItem[] = [
     title: "All-New Kindle",
     subtitle: "The lightest and most compact Kindle, now with a 300 ppi high-resolution display",
     buttonText: "Shop Now",
-    image: "https://images.pexels.com/photos/1496183/pexels-photo-1496183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    image: "https://cdn.vox-cdn.com/thumbor/rBvCgOmT913esWICUKHhYOL_LUw=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/9521997/kindle_app_logo.jpg"
   },
   {
     id: 2,
