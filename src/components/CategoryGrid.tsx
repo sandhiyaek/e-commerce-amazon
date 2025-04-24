@@ -40,7 +40,7 @@ const categories: Category[] = [
   {
     id: 8,
     title: "Pet Supplies",
-    image: "https://images.pexels.com/photos/6568276/pexels-photo-6568276.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    image: "https://www.ultraupdates.com/wp-content/uploads/2022/02/Pet-Supplies.png"
   }
 ];
 

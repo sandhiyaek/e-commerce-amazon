@@ -56,6 +56,27 @@ The optimized files will be available in the `dist` folder.
 
 Check out the live demo of the project here: [Live Demo](http://sandhiyaek.me/e-commerce-amazon/)
 
+## GitHub Repository
+
+You can find the source code for this project here: [GitHub Repository](https://github.com/sandhiyaek/e-commerce-amazon)
+
+## Portfolio
+
+Visit my portfolio to see more of my work: [Portfolio](http://sandhiyaek.me/)
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Home Page
+![Home Page Screenshot](https://via.placeholder.com/800x400?text=Home+Page+Screenshot)
+
+### Category Grid
+![Category Grid Screenshot](https://via.placeholder.com/800x400?text=Category+Grid+Screenshot)
+
+### Footer Section
+![Footer Section Screenshot](https://via.placeholder.com/800x400?text=Footer+Section+Screenshot)
+
 ## Folder Structure
 
 ```
